@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm a ML Researcher, working at TeamAudiyo, [https://github.com/TeamAudiyo/](https://github.com/TeamAudiyo/)
+I'm a ML Researcher at [Marble AI](https://huggingface.co/marbleai)
